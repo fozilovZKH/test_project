@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "login": "test",
+        "password": "ok",
+        "full_name": "ok",
+        "birthdate": "2000-10-10",
+        "role": "user"
+    },
+    {
+        "id": 2,
+        "login": "admin",
+        "password": "ok",
+        "full_name": "ok",
+        "birthdate": "2000-10-10",
+        "role": "admin"
+    },
+    {
+        "id": 3,
+        "login": "hello",
+        "password": "ok",
+        "full_name": "ok",
+        "birthdate": "2000-10-10",
+        "role": "user"
+    }
+]
